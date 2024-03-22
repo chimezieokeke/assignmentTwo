@@ -1,0 +1,29 @@
+.App-header {
+    background-color: #31b317;
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(216, 35, 168);
+  }
+  
+.tic-tac-toe-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .tic-tac-toe-header {
+    margin-bottom: 30px;
+  }
+  
+  .tic-tac-toe-status {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  .tic-tac-toe-button {
+    margin-top: 20px;
+  }
+  
